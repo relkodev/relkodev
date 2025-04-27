@@ -4,7 +4,7 @@ I'm a **Minecraft Developer** focused on custom server setups, configurations, a
 
 Feel free to explore my repositories, and I'm always open to collaboration!
 
-- 🔧 Full-time **Minecraft Developer**
+- 🔧 Part-time **Minecraft Developer**
 - 🔍 Focused on **exploit research** and server optimizations
 - 🎮 Passionate about creating immersive Minecraft experiences
 
