@@ -6,6 +6,6 @@ Feel free to explore my repositories, and I'm always open to collaboration!
 
 - 🔧 Part-time **Minecraft Developer**
 - 🔍 Focused on **exploit research** and server configurations
-- 🎮 Passionate about creating immersive Minecraft experiences
+- 🎮 I make Minecraft better :)
 
 Thanks for visiting my GitHub!
